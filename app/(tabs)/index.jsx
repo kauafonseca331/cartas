@@ -20,7 +20,7 @@ const style = StyleSheet.create({
         elevation: 8,
         margin: 10,
         padding: 20,
-        width: width * 0.4, // Ajusta a largura com base na largura da tela
+        width: width * 0.4, 
         alignItems: 'center',
         justifyContent: 'center',
         shadowColor: '#000000',
@@ -29,8 +29,8 @@ const style = StyleSheet.create({
         shadowRadius: 6
     },
     cardImage: {
-        width: '100%', // Ajusta a largura da imagem
-        height: height * 0.2, // Ajusta a altura com base na altura da tela
+        width: '100%', 
+        height: height * 0.2, 
         borderRadius: 10,
         marginBottom: 15,
         resizeMode: 'contain'
